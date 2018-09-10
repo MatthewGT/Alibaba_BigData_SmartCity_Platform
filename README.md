@@ -1,0 +1,2 @@
+# Alibaba_BigData_SmartCity_Platform
+This platform is mainly for Wuxi Municipal Government's dynamic perception of the city. Through the monitoring and analysis of water and air quality, it understands the basic indicators of Wuxi environmental quality. Through the analysis and modeling of historical data and the introduction of real-time monitoring data, real-time monitoring of urban environmental quality, understanding of the city's current situation, and the ability to provide early warning of environmental pollution for a period of time.
